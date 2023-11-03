@@ -64,6 +64,7 @@ a {
 header {
     display: flex;
     justify-content: space-between;
+    align-items: flex-start;
     margin-bottom: 30px;
 }
 
@@ -75,12 +76,11 @@ header img {
 nav {
     display: flex;
     align-items: flex-end;
-    height: 35px;
 }
 
 nav a {
     display: block;
-    line-height: 33px;
+    padding-top: 14px;
 }
 
 nav a:hover {
