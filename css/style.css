@@ -140,8 +140,8 @@ h1 {
     height: 20px;
 }
 
-.fa-location-dot {
-    color: black !important;
+.icone-location {
+    color: black;
     width: 50px;
     height: 50px;
     background-color: var(--main-bg-color);
@@ -302,7 +302,7 @@ h1 {
     padding: 30px;
 }
 
-.activites h3 {
+.activites h2 {
     margin-bottom: 30px;
 }
 
@@ -324,7 +324,7 @@ h1 {
     border-top-right-radius: 20px;
 }
 
-.activites-content h4 {
+.activites-content h3 {
     margin: 0;
     padding: 20px;
 }
